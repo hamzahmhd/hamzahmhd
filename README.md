@@ -4,12 +4,13 @@
  
  ⚡ Interests:
 - Full-Stack Engineering
-- Machine Learning
-- Web Development
-- Data Analytics
-- UI/UX design
+- AI
+- Algorithms
+- UI/UX Design
+- Space
 - ReactJS
 - CSS, HTML, JS
+- SQL
 - Java
 - Python
   
