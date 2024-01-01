@@ -7,7 +7,6 @@
 - AI
 - Algorithms
 - UI/UX Design
-- Space
 - ReactJS
 - CSS, HTML, JS
 - SQL
