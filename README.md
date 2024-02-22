@@ -1,6 +1,6 @@
  Hi There 👋
  
- My name is Hamzah and I'm a Computer Science student from Canada. Here's some info about me!
+ My name is Hamzah and I'm a Computer Science graduate from Canada. Here's some info about me!
  
  ⚡ Interests:
 - Full-Stack Engineering
