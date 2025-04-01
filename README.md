@@ -5,7 +5,6 @@
  ⚡ Interests:
 - Full-Stack Engineering
 - AI/ML
-- Algorithms
 
 ### 🧰 Languages and Tools
 
