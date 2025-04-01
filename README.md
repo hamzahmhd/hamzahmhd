@@ -6,7 +6,6 @@
 - Full-Stack Engineering
 - AI/ML
 - Algorithms
-- UI/UX Design
 
 ### 🧰 Languages and Tools
 
